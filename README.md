@@ -1,8 +1,7 @@
 # Python Newsfeed
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 ## Description 
-A news app built with a Python backend.
+A news app built with a Python.
 
 ## License
 MIT License
